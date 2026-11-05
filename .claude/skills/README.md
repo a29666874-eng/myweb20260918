@@ -4,7 +4,8 @@
 每個 skill 一個子資料夾，內含 `SKILL.md`（YAML frontmatter：`name`、`description`）。
 
 每日排程任務會從開源資源（GitHub、政府開放資料、法規資料庫等）尋找有用內容，
-整理成新 skill 或更新既有 skill，並在 `docs/research-log/` 留下當日紀錄。
+整理成**候選 skill** 放在 `skills-candidates/`，經地政士本人審核同意後才移入此資料夾啟用。
+每日紀錄放在 `docs/research-log/`。
 
 ## 主題分類
 
@@ -19,7 +20,7 @@
 
 ## 已建立的 Skills
 
-（由每日任務自動更新）
+（僅列出已審核安裝者）
 
-| Skill | 說明 | 來源 | 建立日期 |
+| Skill | 說明 | 來源 | 安裝日期 |
 |-------|------|------|----------|
